@@ -1,0 +1,43 @@
+.p1{
+    text-align: justify;
+    text-transform: uppercase;
+    border: 1px solid red;
+}
+
+
+.p2{
+    margin-top: 15px;
+    text-align: justify;
+    text-transform: capitalize;
+    border: 1px solid red;
+    font-size: 16px;
+    line-height:1.25;
+}
+
+
+.p3{
+    margin-top: 15px;
+    text-indent: 15px;
+    text-align: justify;
+    text-transform: lowercase;
+    border: 1px solid red;
+    font-size: 16px;
+    line-height:1.25;
+    word-spacing: 10px;
+}
+
+.p4{
+    margin-top: 15px;
+    margin-bottom: 10px;
+    text-align: justify;
+    text-transform: capitalize;
+    border: 1px solid red;
+    letter-spacing: 4px;
+}
+
+a{
+    text-decoration: none;
+    width: 40px;
+    background-color: green;
+    
+}
