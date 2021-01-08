@@ -1,0 +1,18 @@
+*{
+    text-align: justify;
+    font-family: sans-serif;
+    background-color: azure
+}
+
+.body{
+    height: 300px;
+    width: 600px;
+    background-image: url(img/img.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    margin-top: 17px;
+    background-position:center top;
+    background-size: 400px auto;
+    
+    
+}
