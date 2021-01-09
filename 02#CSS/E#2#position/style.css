@@ -1,0 +1,54 @@
+.rectangle{
+    
+    height: 400px;
+    width: 600px;
+    background-color: green;
+    margin: 0px auto;
+    margin-top: 20px;
+    
+    position: relative;
+    
+    margin-bottom: 10px;
+}
+
+
+
+.circle{
+    
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    background-color: red;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    border-radius: 50%;
+    
+}
+
+.p{
+    
+    border:1px solid red;
+    display: inline;
+    height: 80px;
+    width: 80px;
+    background-color: yellow;
+    position: sticky;
+    top: 0;
+    padding: 5px;
+    
+}
+
+h2{
+    color: red;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    position: fixed;
+    background-color: antiquewhite;
+    
+}
+
+
