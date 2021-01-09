@@ -1,0 +1,13 @@
+ul li{
+    display: inline;
+    margin-left: 5px;
+}
+
+h2{
+    display:inline
+}
+
+span{
+    display: inline-block;
+    font-size: 18px;
+}
