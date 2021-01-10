@@ -1,0 +1,15 @@
+h2:first-child{
+    background-color: indianred;
+}
+
+h2:nth-child(2){
+    background-color: yellow;
+}
+
+h2:nth-child(3){
+    background-color: bisque;
+}
+
+h2:last-child{
+    background-color: red;
+}
