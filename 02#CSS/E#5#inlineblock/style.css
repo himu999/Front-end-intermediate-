@@ -1,0 +1,41 @@
+*{
+    text-align: justify;
+    font-size: 20px;
+    font-family: sans-serif;
+}
+
+.a{
+    height: 100px;
+    width: 100px;
+    display: inline;
+    background-color: yellow;
+    padding: 5px;
+    border: 2px solid crimson;
+}
+
+
+.b{
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+    background-color: yellow;
+    padding: 5px;
+    border: 2px solid crimson;
+}
+
+.c{
+    height: 100px;
+    width: 100px;
+    display: block;
+    background-color: yellow;
+    padding: 5px;
+    border: 2px solid crimson;
+}
+
+h2{
+    top:350px;
+    right: 40px;
+    position: fixed;
+    color: orangered;
+    text-transform: uppercase;
+}
