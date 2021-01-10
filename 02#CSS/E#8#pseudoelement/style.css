@@ -1,0 +1,23 @@
+*{
+    text-align: justify;
+    font-family: sans-serif;
+}
+
+p::first-line{
+    color: red;
+}
+
+p::first-letter{
+    font-size: 24px;
+    font-weight: bold;
+}
+
+h2::after{
+  content: url(img/1.jpg);
+  
+    
+}
+
+h2::before{
+    content: url(img/1.jpg);
+}
