@@ -1,0 +1,28 @@
+h2{
+    font-family: sans-serif;
+    font-style: normal;
+    text-align: center;
+    text-shadow: -1px 0 red,1px 0 red,0 -1px  red, 0 1px red;
+}
+
+.c1{
+    margin: 0px auto;
+    text-align: center;
+    width: 350px;
+    border: 1px solid gray;
+}
+.c1 h4{
+    font-family: sans-serif;
+    font-size: 18px;
+    text-transform: uppercase;
+    font-style: normal;
+}
+
+.c1 h4::first-letter{
+    color: red
+}
+
+.c1:hover{
+    box-shadow: 5px 5px rgba(0,0,0,.2),-5px 0 rgba(0,0,0,.2);
+    
+}
