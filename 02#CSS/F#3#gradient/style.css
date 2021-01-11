@@ -1,0 +1,40 @@
+.box1{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    float: left;
+    background: linear-gradient(red,pink,yellow);
+}
+
+
+.box2{
+    
+    height: 200px;
+    width: 200px;
+    margin-left: 15px;
+    float: left;
+    border-radius: 50%;
+    background: linear-gradient(red,pink);
+    background: linear-gradient(red,yellow,crimson);
+    
+}
+
+.box3{
+    height: 200px;
+    width:  200px;
+    float: left;
+    margin-left: 15px;
+    background: linear-gradient(to right bottom,red,yellow)
+}
+
+
+.box4{
+    height: 200px;
+    width: 200px;
+    margin-left: 15px;
+    border-radius: 50%;
+    float: left;
+    background:radial-gradient(circle,yellow,red,pink)
+}
+
+
